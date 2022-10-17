@@ -1,6 +1,4 @@
-# united-airlines-twitter-data-storytelling
-data visualization project from Columbia university MSAA 5800 course
-
+# United-airlines-twitter-data-storytelling
 
 Problem: What do people tweet about United Airlines and how do their sentiments affect satisfaction? 
 
